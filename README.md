@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iEuphorius (Taylor M)
-- 👀 I’m interested in astronomy, games, and data.
-- 🌱 I’m currently learning computer science and astronomy.
-- 💞️ I’m looking to collaborate on astronomy or data projects.
+- 👀 Interested in astronomy, games, and data science.
+- 🌱 Currently learning computer science and astronomy (specifically variable star astronomy).
+- 💞️ Looking to collaborate on astronomy or data projects and possible game dev.
 - 📫 How to reach me discord.gg @ Euphorius#3804
 
 <!---
