@@ -2,7 +2,7 @@
 - 👀 Interested in astronomy, games, and data science.
 - 🌱 Currently learning computer science and astronomy (specifically variable star astronomy).
 - 💞️ Looking to collaborate on astronomy or data projects and possible game dev.
-- 📫 How to reach me discord.gg @ Euphorius#3804
+- 📫 How to reach me discord @ Euphorius
 
 <!---
 iEuphorius/iEuphorius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
